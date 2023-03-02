@@ -1,0 +1,5 @@
+a='dewa/dewo'.split('/')
+#str di split menjadi list.
+
+print(type(a))
+print(a)
